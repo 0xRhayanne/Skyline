@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# IDE
+.idea/
+.vscode/
+.env
+.DS_Store
+
+# Output / logs
+*.log
