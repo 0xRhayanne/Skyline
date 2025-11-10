@@ -13,3 +13,9 @@ Powered by wttr.in for weather data and reliable RSS feeds from global and Brazi
 - Shows a 3-day forecast with temperature ranges and condition icons;
 - Uses color-coded styling to visualize weather conditions;
 
+✅ News Headlines by Category
+
+- Fetches top headlines from trusted global and Brazilian sources;
+- Categories: General, Technology, Sports, and Health;
+- Optional keyword filtering to narrow down topics;
+- Displays news in organized, color-rich tables;
