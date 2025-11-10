@@ -9,8 +9,7 @@ Powered by wttr.in for weather data and reliable RSS feeds from global and Brazi
 
 ✅ Real-time Weather Data
 
-Displays current weather conditions for any city and country.
+- Displays current weather conditions for any city and country;
+- Shows a 3-day forecast with temperature ranges and condition icons;
+- Uses color-coded styling to visualize weather conditions;
 
-Shows a 3-day forecast with temperature ranges and condition icons.
-
-Uses color-coded styling to visualize weather conditions.
