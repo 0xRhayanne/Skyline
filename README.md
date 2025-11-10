@@ -1,4 +1,4 @@
-# 🌆 Skyline - Terminal-based Weather and News Dashboard.
+# 🌆 Skyline: Terminal-based Weather and News Dashboard.
 
 Built in Python, designed to keep you informed about the latest weather conditions and trending news headlines, all in one sleek command-line interface.
 
