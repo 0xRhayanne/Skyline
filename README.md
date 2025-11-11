@@ -19,3 +19,8 @@ Powered by wttr.in for weather data and reliable RSS feeds from global and Brazi
 - Categories: ```General```, ```Technology```, ```Sports```, and ```Health```;
 - Optional keyword filtering to narrow down topics;
 - Displays news in organized, color-rich tables;
+
+✅ Interactive CLI Dashboard
+
+- Simple prompts to choose location, news region, category, and filters;
+- Beautiful, formatted output using the ```rich``` library.
