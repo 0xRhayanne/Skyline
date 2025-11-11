@@ -16,6 +16,6 @@ Powered by wttr.in for weather data and reliable RSS feeds from global and Brazi
 ✅ News Headlines by Category
 
 - Fetches top headlines from trusted global and Brazilian sources;
-- Categories: General, Technology, Sports, and Health;
+- Categories: ```General```, ```Technology```, ```Sports```, and ```Health```;
 - Optional keyword filtering to narrow down topics;
 - Displays news in organized, color-rich tables;
