@@ -24,3 +24,27 @@ Powered by wttr.in for weather data and reliable RSS feeds from global and Brazi
 
 - Simple prompts to choose location, news region, category, and filters;
 - Beautiful, formatted output using the ```rich``` library.
+
+---
+
+# 🖥️ Demo
+
+```
+🌤 Weather & 📰 News Dashboard
+Enter your city and country (e.g., London,UK or Paraná,BR):
+> Paraná,BR
+
+Current Weather:
+🌤 Temp: 27°C (Feels like 29°C)
+💧 Humidity: 65%
+☁ Condition: Partly Cloudy
+
+3-Day Forecast:
+Date         | Min°C | Max°C | Condition
+------------------------------------------
+2025-11-04   | 19    | 29    | 🌤 Partly Cloudy
+2025-11-05   | 18    | 28    | 🌦 Light Rain
+2025-11-06   | 20    | 30    | 🌞 Sunny
+
+```
+
