@@ -48,3 +48,12 @@ Date         | Min°C | Max°C | Condition
 
 ```
 
+```
+Top Global News (Technology)
+--------------------------------
+Source          | Title
+--------------------------------
+BBC Tech        | AI revolution reshapes global economy
+CNN Tech        | New smartphone sets record for camera performance
+
+```
