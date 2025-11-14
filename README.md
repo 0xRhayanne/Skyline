@@ -57,3 +57,11 @@ BBC Tech        | AI revolution reshapes global economy
 CNN Tech        | New smartphone sets record for camera performance
 
 ```
+# 🚀 Installation
+
+1. Clone this repository:
+
+```
+git clone https://github.com/0xRhayanne/skyline.git
+cd skyline
+```
