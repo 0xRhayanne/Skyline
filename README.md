@@ -65,3 +65,9 @@ CNN Tech        | New smartphone sets record for camera performance
 git clone https://github.com/0xRhayanne/skyline.git
 cd skyline
 ```
+2. Set up a Python virtual environment (optional but recommended):
+
+```
+python3 -m venv venv
+source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+```
