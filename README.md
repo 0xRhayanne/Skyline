@@ -81,3 +81,8 @@ pip install -r requirements.txt
 ```
 python skyline.py
 ```
+
+# ⚙️ Configuration
+
+- Weather API: The weather data is fetched from wttr.in
+- The default city is set, but you can change it based on your preferences;
