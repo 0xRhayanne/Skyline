@@ -86,3 +86,4 @@ python skyline.py
 
 - Weather API: The weather data is fetched from wttr.in
 - The default city is set, but you can change it based on your preferences;
+- News Feeds: Skyline pulls news from trusted global and Brazilian sources via RSS feeds. You can modify or add new sources in the ```NEWS_FEEDS_GLOBAL``` and ```NEWS_FEEDS_BRAZIL``` dictionaries in the code.
