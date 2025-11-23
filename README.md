@@ -92,3 +92,4 @@ python skyline.py
 # 👀 Acknowledgements
 
 - wttr.in for providing the weather data API;
+- Rich for the beautiful terminal output;
