@@ -93,3 +93,4 @@ python skyline.py
 
 - wttr.in for providing the weather data API;
 - Rich for the beautiful terminal output;
+- Various global and Brazilian RSS feed sources for news data.
